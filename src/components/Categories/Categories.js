@@ -3,7 +3,7 @@ import Category from './Category';
 import categories from './category-data.json';
 import './Category.elements.css';
 
-const Products = () => {
+const Categories = () => {
     return (
         <div className="category-container -mt-400">
             <div className="row cat-row">
@@ -24,4 +24,4 @@ const Products = () => {
     );
 };
 
-export default Products;
+export default Categories;

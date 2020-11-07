@@ -1,0 +1,47 @@
+.single-product {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.product-image {
+    margin-bottom: 2.5rem;
+}
+
+.product-body h2 {
+    font-size: 1.2rem;
+}
+.product-body a {
+    margin-bottom: .2rem;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+.product-body a:active, .product-body a:visited  {
+    color: #0066c0;
+}
+.product-body a:hover {
+    color: #c45500;
+}
+
+.author {
+    font-size: 12px;
+    margin-bottom: .3rem;
+}
+.price {
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1;
+    margin-bottom: 1rem;
+}
+.currency-sign {
+    font-size: 12px;
+    line-height: 1;
+    margin-right: .1rem;
+}
+.btn-cart {
+    background: #f0c14b;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    cursor: pointer;
+    padding: .375rem 1.5rem;
+}
