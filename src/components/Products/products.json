@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "title": "Product Title",
+        "image": "/images/products/product-1.jpg",
+        "description": "Resolution & Panel — 23.8-inch full HD monitor (1920 x 1080p @ 60 Hz) with 16:9 aspect ratio and an anti-glare matte IPS LED-backlit panel (2 million pixels, 16.7 million colors)",
+        "price": 299,
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "title": "Product Title",
+        "image": "/images/products/product-1.jpg",
+        "description": "Resolution & Panel — 23.8-inch full HD monitor (1920 x 1080p @ 60 Hz) with 16:9 aspect ratio and an anti-glare matte IPS LED-backlit panel (2 million pixels, 16.7 million colors)",
+        "price": 299,
+        "rating": 4.5
+    },
+    {
+        "id": 3,
+        "title": "Product Title",
+        "image": "/images/products/product-1.jpg",
+        "description": "Resolution & Panel — 23.8-inch full HD monitor (1920 x 1080p @ 60 Hz) with 16:9 aspect ratio and an anti-glare matte IPS LED-backlit panel (2 million pixels, 16.7 million colors)",
+        "price": 299,
+        "rating": 4.5
+    },
+    {
+        "id": 4,
+        "title": "Product Title",
+        "image": "/images/products/product-1.jpg",
+        "description": "Resolution & Panel — 23.8-inch full HD monitor (1920 x 1080p @ 60 Hz) with 16:9 aspect ratio and an anti-glare matte IPS LED-backlit panel (2 million pixels, 16.7 million colors)",
+        "price": 299,
+        "rating": 4.5
+    },
+    {
+        "id": 5,
+        "title": "Product Title",
+        "image": "/images/products/product-1.jpg",
+        "description": "Resolution & Panel — 23.8-inch full HD monitor (1920 x 1080p @ 60 Hz) with 16:9 aspect ratio and an anti-glare matte IPS LED-backlit panel (2 million pixels, 16.7 million colors)",
+        "price": 299,
+        "rating": 4.5
+    },
+    {
+        "id": 6,
+        "title": "Product Title",
+        "image": "/images/products/product-1.jpg",
+        "description": "Resolution & Panel — 23.8-inch full HD monitor (1920 x 1080p @ 60 Hz) with 16:9 aspect ratio and an anti-glare matte IPS LED-backlit panel (2 million pixels, 16.7 million colors)",
+        "price": 299,
+        "rating": 4.5
+    },
+    {
+        "id": 7,
+        "title": "Product Title",
+        "image": "/images/products/product-1.jpg",
+        "description": "Resolution & Panel — 23.8-inch full HD monitor (1920 x 1080p @ 60 Hz) with 16:9 aspect ratio and an anti-glare matte IPS LED-backlit panel (2 million pixels, 16.7 million colors)",
+        "price": 299,
+        "rating": 4.5
+    },
+    {
+        "id": 8,
+        "title": "Product Title",
+        "image": "/images/products/product-1.jpg",
+        "description": "Resolution & Panel — 23.8-inch full HD monitor (1920 x 1080p @ 60 Hz) with 16:9 aspect ratio and an anti-glare matte IPS LED-backlit panel (2 million pixels, 16.7 million colors)",
+        "price": 299,
+        "rating": 4.5
+    },
+    {
+        "id": 9,
+        "title": "Product Title",
+        "image": "/images/products/product-1.jpg",
+        "description": "Resolution & Panel — 23.8-inch full HD monitor (1920 x 1080p @ 60 Hz) with 16:9 aspect ratio and an anti-glare matte IPS LED-backlit panel (2 million pixels, 16.7 million colors)",
+        "price": 299,
+        "rating": 4.5
+    },
+    {
+        "id": 10,
+        "title": "Product Title",
+        "image": "/images/products/product-1.jpg",
+        "description": "Resolution & Panel — 23.8-inch full HD monitor (1920 x 1080p @ 60 Hz) with 16:9 aspect ratio and an anti-glare matte IPS LED-backlit panel (2 million pixels, 16.7 million colors)",
+        "price": 299,
+        "rating": 4.5
+    },
+
+]
