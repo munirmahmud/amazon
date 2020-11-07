@@ -2,6 +2,9 @@
     background-color: #222222;
     height: 60px;
     padding: 0 .6rem;
+    position: sticky;
+    top: 0;
+    z-index: 999;
 }
 
 .header-logo {
@@ -22,4 +25,54 @@
 }
 .search-icon:hover {
     background-color: #f3a847;
+}
+
+
+.header-nav {
+    color: #fff;
+}
+
+.header-option {
+    line-height: 1.3;
+}
+
+.header-option .option:first-child {
+    font-size: 13px;
+    font-weight: 400;
+}
+.header-option .option:last-child {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.cart-option {
+    width: 56px;
+    height: 100%;
+    cursor: pointer;
+}
+.cart-count {
+    color: orange;
+    position: absolute;
+    top: -10px;
+    left: 10px;
+}
+
+.cart-icons {
+    position: relative;
+    top: 3px;
+    left: 0;
+    width: 100%;
+}
+
+.cart-icon {
+    font-size: 25px;
+}
+
+.cart-text {
+    font-size: 12px;
+    margin-bottom: 0;
+    font-weight: 700;
+    position: absolute;
+    bottom: 2px;
+    right: 0;
 }
