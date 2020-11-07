@@ -5,8 +5,15 @@ import './Category.elements.css';
 
 const Products = () => {
     return (
-        <div className="container -mt-400">
-            <div className="row">
+        <div className="category-container -mt-400">
+            <div className="row cat-row">
+                
+                {categories.length > 0 && categories.map(category => (
+                    <Category key={category.id} category={category} />
+                ))}
+                
+            </div>
+            <div className="row cat-row">
                 
                 {categories.length > 0 && categories.map(category => (
                     <Category key={category.id} category={category} />

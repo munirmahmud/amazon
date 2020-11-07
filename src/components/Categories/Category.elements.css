@@ -1,3 +1,19 @@
+.category-container {
+    max-width: 1480px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 20px 0;
+}
+.cat-row {
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 20px;
+}
+.col-3 {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
 .-mt-400 {
     margin-top: -400px;
     z-index: 99;
