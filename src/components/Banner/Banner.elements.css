@@ -1,0 +1,20 @@
+.home-banner {
+    background-size: cover;
+    background-position: center center;
+    height: 600px;
+    object-fit: cover;
+    width: 100%;
+}
+.home-banner::before {
+    background: linear-gradient(-180deg,rgba(234,237,237,0),#eaeded);
+    bottom: 0;
+    content: "";
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00EAEDED', endColorstr='#EAEDED', GradientType=0);
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#00EAEDED', endColorstr='#EAEDED',GradientType=0)";
+    left: 0;
+    pointer-events: none;
+    position: absolute;
+    right: 0;
+    top: 250px;
+    z-index: 1;
+}

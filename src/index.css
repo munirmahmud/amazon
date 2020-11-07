@@ -2,4 +2,11 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: #EAEDED;
+}
+
+@media (min-width: 1560px) {
+    .container {
+        min-width: 1500px;
+    }
 }
