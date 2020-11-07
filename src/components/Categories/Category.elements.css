@@ -1,0 +1,31 @@
+.-mt-400 {
+    margin-top: -400px;
+    z-index: 99;
+    position: relative;
+}
+
+.category {
+    background: #fff;
+    padding: 20px;
+}
+.cat-title {
+    font-size: 20px;
+    margin-bottom: 1rem;
+}
+.cat-image {
+    margin-bottom: 4rem;
+}
+.cat-image img {
+    width: 100%;
+    height: auto;
+}
+.category .more a {
+    color: #007185;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    font-size: 14px;
+}
+.category .more a:hover {
+    color: #C7511F;
+    text-decoration: underline;
+}

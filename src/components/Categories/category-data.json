@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Beauty picks",
+        "image": "/images/category/cat-1.jpg",
+        "moreText": "Shop now"
+    },
+    {
+        "id": 2,
+        "title": "Electronics",
+        "image": "/images/category/cat-2.jpg",
+        "moreText": "See More"
+    },
+    {
+        "id": 3,
+        "title": "Start on your holiday list early",
+        "image": "/images/category/cat-3.jpg",
+        "moreText": "See More"
+    },
+    {
+        "id": 4,
+        "title": "Computers & Accessories",
+        "image": "/images/category/cat-4.jpg",
+        "moreText": "See More"
+    }
+    
+]
