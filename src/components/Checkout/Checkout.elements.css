@@ -1,0 +1,9 @@
+.checkout-banner img {
+    width: 1;
+}
+
+.checkout-title {
+    font-size: 1.5rem;
+    display: block;
+    border-bottom: 1px solid #ddd;
+}
